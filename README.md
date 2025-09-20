@@ -41,9 +41,6 @@ Low-level programming with C / C++
 <p align="left"> <a href="mailto:eneserr07@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="E-mail" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/enes-er-425661297/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> </p>
 
 🛠️ Languages and Tools
-<p align="left"> <!-- Programming Languages --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <!-- Embedded Systems --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> <img  <!-- PCB & Design Tools -->  <!-- Version Control --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </p>
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidworks" alt="SolidWorks" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="40" height="40"/>
@@ -51,4 +48,3 @@ Low-level programming with C / C++
   <img src="https://skillicons.dev/icons?i=stm32" alt="STM32" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=proteus" alt="Proteus" width="40" height="40"/>
 </p>
-

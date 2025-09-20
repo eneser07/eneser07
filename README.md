@@ -45,10 +45,10 @@ Low-level programming with C / C++
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://github.com/eneser07/eneser07/raw/main/stm32-original.svg" alt="STM32" width="40" height="40"/>
-  <img src="https://github.com/eneser07/eneser07/raw/main/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
-  <img src="https://github.com/eneser07/eneser07/raw/main/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
-  <img src="https://github.com/eneser07/eneser07/raw/main/eagle-original.svg" alt="Eagle" width="40" height="40"/>
-  <img src="https://github.com/eneser07/eneser07/raw/main/proteus-original.svg" alt="Proteus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eagle/eagle-original.svg" alt="Eagle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proteus/proteus-original.svg" alt="Proteus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>

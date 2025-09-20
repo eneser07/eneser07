@@ -56,9 +56,9 @@ Currently, I am focused on learning and developing my skills as a junior enginee
   
   <!-- Embedded Systems -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_STM32.png" alt="STM32" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/STM32_Logo.png" alt="STM32" width="80" height="40"/>
   
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/SolidWorks_Logo.png" alt="SolidWorks" width="80" height="40"/>
 </p>

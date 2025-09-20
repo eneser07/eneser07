@@ -59,9 +59,16 @@ Low-level programming with C / C++
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,stm32,solidworks,autocad,eagle,proteus,github" alt="Yetenekler" width="40" height="40"/>
 
-
+</p>
 
   <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,stm32,solidworks,autocad,eagle,proteus,github" alt="Yetenekler" width="70" height="70"/>
+
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,stm32,solidworks,autocad,eagle,proteus,github" alt="Yetenekler" width="350" height="350"/>
 </p>
+
+
+

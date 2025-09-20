@@ -52,3 +52,10 @@ Low-level programming with C / C++
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proteus/proteus-original.svg" alt="Proteus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+
+
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,stm32,solidworks,autocad,eagle,proteus,github" alt="Yetenekler" width="40" height="40"/>
+</p>

@@ -44,4 +44,4 @@ Low-level programming with C / C++
 
 
 
-<img src="https://raw.githubusercontent.com/<eneser07>/<eneser07>/main/assets/solidworkslogo.png" alt="SolidWorks Logo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/<eneser07>/<eneser07>/main/assets/solidworkslogo.png" 

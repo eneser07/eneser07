@@ -45,11 +45,11 @@ Low-level programming with C / C++
 
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eagle/eagle-original.svg" alt="Eagle" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proteus/proteus-original.svg" alt="Proteus" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=solidworks" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=eagle" alt="Eagle" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=stm32" alt="STM32" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=proteus" alt="Proteus" width="40" height="40"/>
 </p>
 
 

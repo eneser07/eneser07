@@ -1,4 +1,21 @@
-## 🌟 About Me | Hakkımda  
+# 🌟 About Me | Hakkımda  
+
+### 🇹🇷 Türkçe  
+Merhaba! Ben Balıkesir Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim (GPA: 3.2).  
+Gömülü sistemler ve elektronik alanına özel bir ilgi duyuyorum ve kendimi bu yönde geliştirmekteyim.  
+Şu ana kadar **TEKNOFEST Roket Yarışması’nda finalist** oldum ve takım çalışması, mühendislik tasarımı  
+ve problem çözme konularında önemli deneyimler kazandım.  
+
+Henüz staj yapmadım, ancak yakın zamanda yapacağım staj ile endüstriyel projelerde aktif rol almayı hedefliyorum.  
+Şu an için öğrenmeye ve kendimi geliştirmeye odaklı bir junior mühendis adayıyım.  
+
+📌 İlgi alanlarım:  
+- Gömülü Sistemler (MCU, sensörler, haberleşme protokolleri)  
+- Robotik ve Otomasyon  
+- Elektronik Devre Tasarımı  
+- C / C++ ile düşük seviye programlama  
+
+---
 
 ### 🇬🇧 English  
 Hello! I am an Electrical & Electronics Engineering student at Balıkesir University (GPA: 3.2).  
@@ -17,21 +34,6 @@ Currently, I am focused on learning and developing my skills as a junior enginee
 
 ---
 
-### 🇹🇷 Türkçe  
-Merhaba! Ben Balıkesir Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim (GPA: 3.2).  
-Gömülü sistemler ve elektronik alanına özel bir ilgi duyuyorum ve kendimi bu yönde geliştirmekteyim.  
-Şu ana kadar **TEKNOFEST Roket Yarışması’nda finalist** oldum ve takım çalışması, mühendislik tasarımı  
-ve problem çözme konularında önemli deneyimler kazandım.  
-
-Henüz staj yapmadım, ancak yakın zamanda yapacağım staj ile endüstriyel projelerde aktif rol almayı hedefliyorum.  
-Şu an için öğrenmeye ve kendimi geliştirmeye odaklı bir junior mühendis adayıyım.  
-
-📌 İlgi alanlarım:  
-- Gömülü Sistemler (MCU, sensörler, haberleşme protokolleri)  
-- Robotik ve Otomasyon  
-- Elektronik Devre Tasarımı  
-- C / C++ ile düşük seviye programlama
-
 ## 📫 Contact | İletişim  
 
 <p align="left">
@@ -43,4 +45,20 @@ Henüz staj yapmadım, ancak yakın zamanda yapacağım staj ile endüstriyel pr
   </a>
 </p>
 
+---
 
+## 🛠️ Languages and Tools  
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  
+  <!-- Embedded Systems -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_STM32.png" alt="STM32" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40"/>
+</p>

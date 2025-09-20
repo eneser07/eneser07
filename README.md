@@ -17,3 +17,7 @@
   <!-- Version Control -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+
+
+
+<img src="https://www.vhv.rs/viewpic/bJowom_logo-solidworks-png-transparent-png/" alt="SolidWorks Logo Transparent" width="40" height="40"/>

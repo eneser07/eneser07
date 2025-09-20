@@ -87,3 +87,21 @@ Low-level programming with C / C++
   <img src="https://skillicons.dev/icons?i=proteus" alt="Proteus" width="70" height="70"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="70" height="70"/>
 </p>
+
+
+
+
+
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="70" height="70"/>
+  
+  <img src="https://skillicons.dev/icons?i=stm32" alt="STM32" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=solidworks" alt="SolidWorks" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=eagle" alt="Eagle" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=proteus" alt="Proteus" width="70" height="70"/>
+</p>

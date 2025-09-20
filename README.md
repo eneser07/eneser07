@@ -33,6 +33,14 @@ Henüz staj yapmadım, ancak yakın zamanda yapacağım staj ile endüstriyel pr
 - C / C++ ile düşük seviye programlama
 
 ## 📫 Contact | İletişim  
-- 📧 E-mail: [eneserr07@gmail.com](mailto:eneserr07@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/enes-er-425661297](https://www.linkedin.com/in/enes-er-425661297/)  
+
+<p align="left">
+  <a href="mailto:eneserr07@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="E-mail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/enes-er-425661297/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
 

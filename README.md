@@ -45,10 +45,10 @@ Low-level programming with C / C++
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eagle/eagle-original.svg" alt="Eagle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proteus/proteus-original.svg" alt="Proteus" width="40" height="40"/>
+  <img src="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/raw/main/stm32-original.svg" alt="STM32" width="40" height="40"/>
+  <img src="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/raw/main/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/raw/main/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/raw/main/eagle-original.svg" alt="Eagle" width="40" height="40"/>
+  <img src="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/raw/main/proteus-original.svg" alt="Proteus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>

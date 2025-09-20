@@ -30,4 +30,9 @@ Henüz staj yapmadım, ancak yakın zamanda yapacağım staj ile endüstriyel pr
 - Gömülü Sistemler (MCU, sensörler, haberleşme protokolleri)  
 - Robotik ve Otomasyon  
 - Elektronik Devre Tasarımı  
-- C / C++ ile düşük seviye programlama  
+- C / C++ ile düşük seviye programlama
+
+## 📫 Contact | İletişim  
+- 📧 E-mail: [eneserr07@gmail.com](mailto:eneserr07@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/enes-er-425661297](https://www.linkedin.com/in/enes-er-425661297/)  
+

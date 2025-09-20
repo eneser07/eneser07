@@ -55,15 +55,4 @@ Low-level programming with C / C++
 
 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="70" height="70"/>
-  
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/stm32/stm32-original.svg" alt="STM32" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/autocad/autocad-original.svg" alt="AutoCAD" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/eagle/eagle-original.svg" alt="Eagle" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/proteus/proteus-original.svg" alt="Proteus" width="70" height="70"/>
-</p>
+

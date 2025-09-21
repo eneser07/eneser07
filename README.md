@@ -62,5 +62,17 @@ Low-level programming with C / C++
 </p>
 
 
+<p align="left">
+  <img src="assets/icons/c.svg" alt="C" title="C" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/cplusplus.svg" alt="C++" title="C++" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/stm32.svg" alt="STM32" title="STM32" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/solidworks.svg" alt="SolidWorks" title="SolidWorks" width="40" height="40" style="margin-right:8px;"/>
+  <!-- Eğer autocad.svg yoksa bu satırı sil ya da autocad.svg yükleyince geri koy -->
+  <img src="assets/icons/autocad.svg" alt="AutoCAD" title="AutoCAD" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/eagle.svg" alt="Eagle (PCB)" title="Eagle (PCB)" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/proteus.svg" alt="Proteus" title="Proteus" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" style="margin-right:8px;"/>
+</p>
 
 

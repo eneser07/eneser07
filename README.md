@@ -51,6 +51,14 @@ Low-level programming with C / C++
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eagle/eagle-original.svg" alt="Eagle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proteus/proteus-original.svg" alt="Proteus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/STM32_logo.svg" alt="STM32" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Autocad_logo.svg" alt="AutoCAD" width="40" height="40"/>
+<img src="https://seeklogo.com/images/E/eagle-logo-8E9F6F5E43-seeklogo.com.png" alt="Eagle" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Proteus_logo.png" alt="Proteus" width="40" height="40"/>
+
 </p>
 
 

@@ -42,17 +42,17 @@ Low-level programming with C / C++
 
 🛠️ Languages and Tools
 
-
-
 <p align="left">
-  <img src="assets/icons/c.svg" alt="C" title="C" width="40" height="40" style="margin-right:8px;"/>
-  <img src="assets/icons/cplusplus.svg" alt="C++" title="C++" width="40" height="40" style="margin-right:8px;"/>
-  <img src="assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="40" height="40" style="margin-right:8px;"/>
-  <img src="assets/icons/stm32.svg" alt="STM32" title="STM32" width="40" height="40" style="margin-right:8px;"/>
-  <img src="assets/icons/solidworks.svg" alt="SolidWorks" title="SolidWorks" width="40" height="40" style="margin-right:8px;"/>
-  <img src="assets/icons/proteus.svg" alt="Proteus" title="Proteus" width="40" height="40" style="margin-right:8px;"/>
-  <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" style="margin-right:8px;"/>
- <img src="assets/icons/eagle.svg" alt="Eagle (PCB)" title="Eagle (PCB)" width="40" height="40" style="margin-right:8px;"/>
+  <img src="assets/icons/c.svg" alt="C" title="C" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/cplusplus.svg" alt="C++" title="C++" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/stm32.svg" alt="STM32" title="STM32" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/solidworks.svg" alt="SolidWorks" title="SolidWorks" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/proteus.svg" alt="Proteus" title="Proteus" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60" style="margin-right:8px;"/>
+  <img src="assets/icons/eagle.svg" alt="Eagle (PCB)" title="Eagle (PCB)" width="60" height="60" style="margin-right:8px;"/>
 </p>
+
+
 
 

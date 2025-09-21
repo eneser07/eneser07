@@ -1,5 +1,5 @@
 # 🌟 About Me | Hakkımda
-
+junior electrical electronics developer
 ## 🇹🇷 Türkçe
 
 Merhaba! Ben Balıkesir Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim (GPA: 3.2).  

@@ -1,5 +1,6 @@
 # 🌟 About Me | Hakkımda
 junior electrical electronics developer
+
 ## 🇹🇷 Türkçe
 
 Merhaba! Ben Balıkesir Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim (GPA: 3.2).  
@@ -59,4 +60,13 @@ Currently, I am focused on learning and developing my skills as a junior enginee
   <img src="assets/icons/eagle.svg" alt="Eagle (PCB)" title="Eagle (PCB)" width="60" height="60" style="margin-right:12px; margin-bottom:12px;"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+![Enes'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=eneser07&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eneser07&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eneser07&theme=radical)
 
